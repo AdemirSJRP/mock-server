@@ -1,0 +1,45 @@
+{
+	"d": {
+		"results": [
+			{
+				"__metadata": {
+					"id": "http://azsapgbap007.one.ofc.loc:8000/sap/opu/odata/AB4/P2P_GHQ_C_JB_PARAM_CDS/xAB4xP2P_GHQ_C_JB_PARAM('0000000001')",
+					"uri": "http://azsapgbap007.one.ofc.loc:8000/sap/opu/odata/AB4/P2P_GHQ_C_JB_PARAM_CDS/xAB4xP2P_GHQ_C_JB_PARAM('0000000001')",
+					"type": "xAB4xP2P_GHQ_C_JB_PARAM_CDS.xAB4xP2P_GHQ_C_JB_PARAMType"
+				},
+				"PurchasingGroup": "BRA",
+				"IncotermsClassification": "INCBRA",
+				"IncotermsLocation1": "BRSP",
+				"IncotermsLocation2": "BRMG",
+				"PaymentTerms": "",
+				"ExchangeRate": ""
+			},
+			{
+				"__metadata": {
+					"id": "http://azsapgbap007.one.ofc.loc:8000/sap/opu/odata/AB4/P2P_GHQ_C_JB_PARAM_CDS/xAB4xP2P_GHQ_C_JB_PARAM('0000000002')",
+					"uri": "http://azsapgbap007.one.ofc.loc:8000/sap/opu/odata/AB4/P2P_GHQ_C_JB_PARAM_CDS/xAB4xP2P_GHQ_C_JB_PARAM('0000000002')",
+					"type": "xAB4xP2P_GHQ_C_JB_PARAM_CDS.xAB4xP2P_GHQ_C_JB_PARAMType"
+				},
+				"PurchasingGroup": "BRA",
+				"IncotermsClassification": "INCBRA",
+				"IncotermsLocation1": "BRSP",
+				"IncotermsLocation2": "BRMG",
+				"PaymentTerms": "PMT02",
+				"ExchangeRate": "RT01"
+			},
+			{
+				"__metadata": {
+					"id": "http://azsapgbap007.one.ofc.loc:8000/sap/opu/odata/AB4/P2P_GHQ_C_JB_PARAM_CDS/xAB4xP2P_GHQ_C_JB_PARAM('0000000003')",
+					"uri": "http://azsapgbap007.one.ofc.loc:8000/sap/opu/odata/AB4/P2P_GHQ_C_JB_PARAM_CDS/xAB4xP2P_GHQ_C_JB_PARAM('0000000003')",
+					"type": "xAB4xP2P_GHQ_C_JB_PARAM_CDS.xAB4xP2P_GHQ_C_JB_PARAMType"
+				},
+				"PurchasingGroup": "BRA",
+				"IncotermsClassification": "INCBRA",
+				"IncotermsLocation1": "BRSP",
+				"IncotermsLocation2": "BRMG",
+				"PaymentTerms": "PMT03",
+				"ExchangeRate": "RT03"
+			}
+		]
+	}
+}
